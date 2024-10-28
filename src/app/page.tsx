@@ -9,6 +9,7 @@ export default function Home() {
         <mesh position={[1, 0, 1]}>
           <boxGeometry args={[1, 1, 1]} />
           <meshStandardMaterial color={"red"} />
+          <p>commit</p>
         </mesh>
       </Canvas>
     </div>
